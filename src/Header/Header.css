@@ -1,0 +1,12 @@
+.header  {
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #eeee;
+    box-shadow: 0 2px 3px silver;
+}
+.viewissue {
+    float:left;
+}
+.addissue {
+    float: right;;
+}
